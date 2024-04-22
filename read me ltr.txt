@@ -1,0 +1,6 @@
+To Run Program a local host linking to the pc where the program was made needs to be opened and connected 
+-java scirpt
+-run time 11
+-Python cc
+-Java exntentions
+will also needs to be downaloded and installed on the local computer 
